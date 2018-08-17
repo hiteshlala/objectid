@@ -1,0 +1,8 @@
+{
+  "name": "objectid",
+  "version": "0.0.1",
+  "description": "MongoDB ObjectId Creator.",
+  "main": "objectid.js",
+  "author": "Extracted from https://github.com/mongodb/js-bson",
+  "private": true
+}
